@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.App label {
+  font-size: 8pt;
+  display: block;
+  text-indent: 6em;
+}

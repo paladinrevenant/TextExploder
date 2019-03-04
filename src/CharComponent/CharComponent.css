@@ -1,0 +1,13 @@
+.CharComponent {
+  font-weight: bold;
+  background-color: red;
+  border: 1px solid black;
+  width: 2em;
+  height: 2em;
+  box-shadow: 4px 4px grey;
+  margin: .5em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  cursor: pointer;
+}
